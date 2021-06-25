@@ -1,0 +1,7 @@
+# pip install pyfiglet
+import pyfiglet
+
+ascii_banner = pyfiglet.figlet_format("DevOps")
+
+print(ascii_banner)
+
